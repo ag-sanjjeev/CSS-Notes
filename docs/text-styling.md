@@ -1,7 +1,7 @@
 ## &#9873; Text Styling
 The various method of styling a text element via CSS.
 
-*There are popular 6 popular text styling in CSS.*
+*There are 6 popular text styling in CSS.*
 
 ### &#9780; Overview:
 1. [Font families](#-font-families)
@@ -80,6 +80,6 @@ p {
 ---
 [&#8682; To Top](#-text-styling)
 
-[&#10094; Previous Topic](../docs/css-units.md) &emsp; [Next Topic &#10095;](../docs/text-styling.md)
+[&#10094; Previous Topic](../docs/css-units.md) &emsp; [Next Topic &#10095;](../docs/color-and-background.md)
 
 [&#8962; Goto Home Page](../README.md)
