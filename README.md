@@ -9,10 +9,10 @@ This repository contains __the basic and essential__ topics and their notes to l
 ## &#9776; CONTENTS 
 1. [Usage](./usage.md)
 2. [Introduction](./introduction.md)
-	- [What is CSS?](./introduction.md#-what-is-css?)
-	- How CSS works with HTML
-	- Basic syntax and structure
-	- Selectors:
+	- [What is CSS?](./introduction.md#-what-is-css)
+	- [How CSS works with HTML?](./introduction.md#-how-css-works-with-html)
+	- [Basic syntax and structure](./introduction.md#-basic-syntax-and-structure)
+	- [Selectors:](./docs/selectors.md)
 		- Element selectors
 		- Class selectors
 		- ID selectors
