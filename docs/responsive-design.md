@@ -1,9 +1,7 @@
 ## &#9873; Responsive Design
-These properties is used for displaying edges of the elements based on usage.
+These properties is used for designing the neat and clean webpages to view in different sizes of the screen.
 
-*Border property will draw the lines on the element whenever the page gets loaded. But outline property will highlights the element when it gets focused by keyboard navigations.*
-
-*To apply borders or outlines to specific sides of an element, use the corresponding properties (e.g., `border-top`, `border-right`, `border-bottom`, `border-left`*
+*It helpful to adjust the layout of the webpages as per the different screen sizes. And to avoid the overflow of the content.*
 
 ### &#9780; Overview:
 1. [Media queries](#-media-queries)
