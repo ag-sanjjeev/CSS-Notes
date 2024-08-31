@@ -90,15 +90,16 @@ This repository contains __the basic and essential__ topics and their notes to l
 	- [Transition timing functions](./docs/css-transitions.md#-transition-timing-functions)
 	- [Transition delay](./docs/css-transitions.md#-transition-delay)
 	- [Shorthand Transition Property](./docs/css-transitions.md#-shorthand-transition-property)
-12. **CSS Filters:**
-	- Blur
-	- Brightness
-	- Contrast
-	- Grayscale
-	- Hue-rotate
-	- Invert
-	- Opacity
-	- Sepia
+12. [CSS Filters:](./docs/css-filters.md)
+	- [Blur](./docs/css-filters.md#-blur)
+	- [Brightness](./docs/css-filters.md#-brightness)
+	- [Contrast](./docs/css-filters.md#-contrast)
+	- [Grayscale](./docs/css-filters.md#-grayscale)
+	- [Hue-rotate](./docs/css-filters.md#-hue-rotate)
+	- [Invert](./docs/css-filters.md#-invert)
+	- [Opacity](./docs/css-filters.md#-opacity)
+	- [Sepia](./docs/css-filters.md#-sepia)
+	- [Multiple Filters Effect](./docs/css-filters.md#multiple-filters-effect)
 
 ## &#9873; Contribution
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Make sure to follow the existing coding style and provide clear documentation for your changes.
