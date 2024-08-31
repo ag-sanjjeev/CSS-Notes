@@ -72,11 +72,11 @@ This repository contains __the basic and essential__ topics and their notes to l
 	- [Border style](./docs/borders-and-outlines.md#-border-style)
 	- [Border color](./docs/borders-and-outlines.md#-border-color)
 	- [Outlines](./docs/borders-and-outlines.md#-outlines)
-9. **Responsive Design:**
-	- Media queries
-	- Flexible layouts
-	- Responsive images
-	- Fluid typography
+9. [Responsive Design:](./docs/responsive-design.md)
+	- [Media queries](./docs/responsive-design.md#-media-queries)
+	- [Flexible layouts](./docs/responsive-design.md#-flexible-layouts)
+	- [Responsive images](./docs/responsive-design.md#-responsive-images)
+	- [Fluid typography](./docs/responsive-design.md#-fluid-typography)
 10. **CSS Animations:**
 	- Keyframes
 	- Animation properties
