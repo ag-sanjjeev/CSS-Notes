@@ -57,6 +57,6 @@ input {
 ---
 [&#8682; To Top](#-borders-and-outlines)
 
-[&#10094; Previous Topic](../docs/layouts.md) &emsp; [Next Topic &#10095;](../docs/borders-and-outlines.md)
+[&#10094; Previous Topic](../docs/layouts.md) &emsp; [Next Topic &#10095;](../docs/responsive-design.md)
 
 [&#8962; Goto Home Page](../README.md)
