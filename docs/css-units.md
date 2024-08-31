@@ -73,6 +73,6 @@ div {
 ---
 [&#8682; To Top](#-css-units)
 
-[&#10094; Previous Topic](../docs/properties-and-values.md) &emsp; [Next Topic &#10095;](./topic.md)
+[&#10094; Previous Topic](../docs/properties-and-values.md) &emsp; [Next Topic &#10095;](../docs/text-styling.md)
 
 [&#8962; Goto Home Page](../README.md)

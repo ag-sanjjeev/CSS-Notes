@@ -44,13 +44,13 @@ This repository contains __the basic and essential__ topics and their notes to l
 	- [Ems (em)](./docs/css-units.md#-ems)
 	- [Rems (rem)](./docs/css-units.md#-rems)
 	- [Viewport units (vw, vh, vmax, vmin)](./docs/css-units.md#-viewport-units)
-5. **Text Styling:**
-	- Font families
-	- Font sizes
-	- Font weights
-	- Text decoration
-	- Text alignment
-	- Text transforms
+5. [Text Styling:](./docs/text-styling.md)
+	- [Font families](./docs/text-styling.md#-font-families)
+	- [Font sizes](./docs/text-styling.md#-font-sizes)
+	- [Font weights](./docs/text-styling.md#-font-weights)
+	- [Text decoration](./docs/text-styling.md#-text-decoration)
+	- [Text alignment](./docs/text-styling.md#-text-alignment)
+	- [Text transforms](./docs/text-styling.md#-text-transforms)
 6. **Color and Background:**
 	- Color models (RGB, HSL, HEX)
 	- Background color
