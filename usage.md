@@ -22,6 +22,7 @@ This usage guide will give explanation about creating and using CSS Styles in th
 - The best practice is, Write separate file for CSS Styles to make HTML document clean and neat in the code. And also it gives the code re-usability. 
 
 ---
+[&#8682; To Top](#-usage-guide)
 
 [&#10094; Previous Topic](./README.md)&emsp;[Next Topic &#10095;](./introduction.md)
 
