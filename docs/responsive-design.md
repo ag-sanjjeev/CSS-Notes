@@ -18,7 +18,7 @@ The conditional statements that allow to apply styles based on the screen size o
 ```css 
 @media screen and (min-width: 768px) {
   /* Styles for screens wider than 768 pixels */
-}`
+}
 ```
 
 *Example:*
@@ -74,6 +74,6 @@ body {
 ---
 [&#8682; To Top](#-responsive-design)
 
-[&#10094; Previous Topic](../docs/borders-and-outlines.md) &emsp; [Next Topic &#10095;](../docs/responsive-design.md)
+[&#10094; Previous Topic](../docs/borders-and-outlines.md) &emsp; [Next Topic &#10095;](../docs/css-animations.md)
 
 [&#8962; Goto Home Page](../README.md)

@@ -77,13 +77,13 @@ This repository contains __the basic and essential__ topics and their notes to l
 	- [Flexible layouts](./docs/responsive-design.md#-flexible-layouts)
 	- [Responsive images](./docs/responsive-design.md#-responsive-images)
 	- [Fluid typography](./docs/responsive-design.md#-fluid-typography)
-10. **CSS Animations:**
-	- Keyframes
-	- Animation properties
-	- Animation timing functions
-	- Animation delay
-	- Animation iteration count
-	- Animation direction
+10. [CSS Animations:](./docs/css-animations.md)
+	- [Keyframes](./docs/css-animations.md#-keyframes)
+	- [Animation properties](./docs/css-animations.md#-animation-properties)
+	- [Animation timing functions](./docs/css-animations.md#-animation-timing-functions)
+	- [Animation delay](./docs/css-animations.md#-animation-delay)
+	- [Animation iteration count](./docs/css-animations.md#-animation-iteration-count)
+	- [Animation direction](./docs/css-animations.md#-animation-direction)
 11. **CSS Transitions:**
 	- Transition properties
 	- Transition duration
