@@ -1,9 +1,5 @@
 ## &#9873; CSS Animations
-These properties is used for displaying edges of the elements based on usage.
-
-*Border property will draw the lines on the element whenever the page gets loaded. But outline property will highlights the element when it gets focused by keyboard navigations.*
-
-*To apply borders or outlines to specific sides of an element, use the corresponding properties (e.g., `border-top`, `border-right`, `border-bottom`, `border-left`*
+It is used to create sequential order of change in the style of an element as an CSS animation.
 
 ### &#9780; Overview:
 1. [Keyframes](#-keyframes)
@@ -125,6 +121,6 @@ animation-direction: alternate;
 ---
 [&#8682; To Top](#-css-animations)
 
-[&#10094; Previous Topic](../docs/responsive-design.md) &emsp; [Next Topic &#10095;](../docs/css-animations.md)
+[&#10094; Previous Topic](../docs/responsive-design.md) &emsp; [Next Topic &#10095;](../docs/css-transitions.md)
 
 [&#8962; Goto Home Page](../README.md)

@@ -84,11 +84,12 @@ This repository contains __the basic and essential__ topics and their notes to l
 	- [Animation delay](./docs/css-animations.md#-animation-delay)
 	- [Animation iteration count](./docs/css-animations.md#-animation-iteration-count)
 	- [Animation direction](./docs/css-animations.md#-animation-direction)
-11. **CSS Transitions:**
-	- Transition properties
-	- Transition duration
-	- Transition timing functions
-	- Transition delay
+11. [CSS Transitions:](./docs/css-transitions.md)
+	- [Transition properties](./docs/css-transitions.md#-transition-properties)
+	- [Transition duration](./docs/css-transitions.md#-transition-duration)
+	- [Transition timing functions](./docs/css-transitions.md#-transition-timing-functions)
+	- [Transition delay](./docs/css-transitions.md#-transition-delay)
+	- [Shorthand Transition Property](./docs/css-transitions.md#-shorthand-transition-property)
 12. **CSS Filters:**
 	- Blur
 	- Brightness
