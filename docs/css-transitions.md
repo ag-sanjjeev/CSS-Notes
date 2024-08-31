@@ -70,6 +70,6 @@ transition: background-color 0.5s ease-in-out 1s;
 ---
 [&#8682; To Top](#-css-transitions)
 
-[&#10094; Previous Topic](../docs/css-animations.md) &emsp; [Next Topic &#10095;](../docs/css-transitions.md)
+[&#10094; Previous Topic](../docs/css-animations.md) &emsp; [Next Topic &#10095;](../docs/css-filters.md)
 
 [&#8962; Goto Home Page](../README.md)
