@@ -6,11 +6,11 @@ These properties can apply the colors to the elements.
 ### &#9780; Overview:
 1. [Color models](#-color-models)
 2. [Color Opacity](#-color-opacity)
-2. [Background color](#-background-color)
-3. [Background images](#-background-images)
-4. [Background positioning](#-background-positioning)
-5. [Background repetition](#-background-repetition)
-6. [Background attachment](#-background-attachment)
+3. [Background color](#-background-color)
+4. [Background images](#-background-images)
+5. [Background positioning](#-background-positioning)
+6. [Background repetition](#-background-repetition)
+7. [Background attachment](#-background-attachment)
 
 ### &#10022; Color models:
 - RGB (Red Green Blue) Color Model:
@@ -119,6 +119,6 @@ body {
 ---
 [&#8682; To Top](#-color-and-background)
 
-[&#10094; Previous Topic](../docs/text-styling.md) &emsp; [Next Topic &#10095;](../docs/color-and-background.md)
+[&#10094; Previous Topic](../docs/text-styling.md) &emsp; [Next Topic &#10095;](../docs/layouts.md)
 
 [&#8962; Goto Home Page](../README.md)
