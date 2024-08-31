@@ -59,14 +59,14 @@ This repository contains __the basic and essential__ topics and their notes to l
 	- [Background positioning](./docs/color-and-background.md#-background-positioning)
 	- [Background repetition](./docs/color-and-background.md#-background-repetition)
 	- [Background attachment](./docs/color-and-background.md#-background-attachment)
-7. **Layout:**
-	- Block-level elements
-	- Inline elements
-	- Inline-block elements
-	- Flexbox layout
-	- Grid layout
-	- Positioning (static, relative, absolute, fixed)
-	- Floating elements
+7. [Layouts:](./docs/layouts.md)
+	- [Block-level elements](./docs/layouts.md#-block-level-elements)
+	- [Inline elements](./docs/layouts.md#-inline-elements)
+	- [Inline-block elements](./docs/layouts.md#-inline-block-elements)
+	- [Flexbox layout](./docs/layouts.md#-flexbox-layout)
+	- [Grid layout](./docs/layouts.md#-grid-layout)
+	- [Positioning](./docs/layouts.md#-positioning)
+	- [Floating elements](./docs/layouts.md#-floating-elements)
 8. **Borders and Outlines:**
 	- Border width
 	- Border style
