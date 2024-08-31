@@ -69,6 +69,10 @@ It sets the space outside an element.
 
 *Syntax: `margin: value;` or `margin: top-bottom left-right;` or `margin: top right bottom left;`*
 
+Or it sets margin value to individual side.
+
+*Syntax: `margin-top: value;`, `margin-right: value;`, `margin-bottom: value;`, `margin-left: value;`*
+
 ```css
 p {
   margin: 10px;
@@ -87,6 +91,10 @@ It sets the space inside an element.
 
 *Syntax: `padding: value;` or `padding: top-bottom left-right;` or `padding: top right bottom left;`*
 
+Or it sets padding value to individual side.
+
+*Syntax: `padding-top: value;`, `padding-right: value;`, `padding-bottom: value;`, `padding-left: value;`*
+
 ```css
 p {
   padding: 10px;
@@ -104,6 +112,10 @@ span {
 It creates a border around an element.
 
 *Syntax: `border: value;` or `border: width style color;`*
+
+Or it sets border to individual side.
+
+*Syntax: `border-top: value;`, `border-right: value;`, `border-bottom: value;`, `border-left: value;`*
 
 ```css
 button {
