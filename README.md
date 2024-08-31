@@ -51,13 +51,14 @@ This repository contains __the basic and essential__ topics and their notes to l
 	- [Text decoration](./docs/text-styling.md#-text-decoration)
 	- [Text alignment](./docs/text-styling.md#-text-alignment)
 	- [Text transforms](./docs/text-styling.md#-text-transforms)
-6. **Color and Background:**
-	- Color models (RGB, HSL, HEX)
-	- Background color
-	- Background images
-	- Background positioning
-	- Background repetition
-	- Background attachment
+6. [Color and Background:](./docs/color-and-background.md)
+	- [Color models (RGB, HSL, HEX)](./docs/color-and-background.md#-color-models)
+	- [Color Opacity](./docs/color-and-background.md#-color-opacity),
+	- [Background color](./docs/color-and-background.md#-background-color)
+	- [Background images](./docs/color-and-background.md#-background-images)
+	- [Background positioning](./docs/color-and-background.md#-background-positioning)
+	- [Background repetition](./docs/color-and-background.md#-background-repetition)
+	- [Background attachment](./docs/color-and-background.md#-background-attachment)
 7. **Layout:**
 	- Block-level elements
 	- Inline elements
