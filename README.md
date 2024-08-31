@@ -13,31 +13,31 @@ This repository contains __the basic and essential__ topics and their notes to l
 	- [How CSS works with HTML?](./introduction.md#-how-css-works-with-html)
 	- [Basic syntax and structure](./introduction.md#-basic-syntax-and-structure)
 	- [Selectors:](./docs/selectors.md)
-		- Element selectors
-		- Class selectors
-		- ID selectors
-		- Universal selector
-		- Descendant selectors
-		- Child selectors
-		- Adjacent sibling selectors
-		- General sibling selectors
-		- Attribute selectors
-3. **Properties and Values:**
-	- Understanding properties
-	- Setting values (keywords, numbers, units, colors, functions)
-	- Common properties:
-		- `color`
-		- `background`
-		- `font`
-		- `margin`
-		- `padding`
-		- `border`
-		- `display`
-		- `position`
-		- `float`
-		- `width`
-		- `height`
-		- `overflow`
+		- [Element selectors](./docs/selectors.md#-element-selectors)
+		- [Class selectors](./docs/selectors.md#-class-selectors)
+		- [ID selectors](./docs/selectors.md#-id-selectors)
+		- [Universal selector](./docs/selectors.md#-universal-selector)
+		- [Descendant selectors](./docs/selectors.md#-descendant-selectors)
+		- [Child selectors](./docs/selectors.md#-child-selectors)
+		- [Adjacent sibling selectors](./docs/selectors.md#-adjacent-sibling-selectors)
+		- [General sibling selectors](./docs/selectors.md#-general-sibling-selectors)
+		- [Attribute selectors](./docs/selectors.md#-attribute-selectors)
+3. [Properties and Values:](./docs/properties-and-values.md)
+	- [Understanding properties](./docs/properties-and-values.md#-understanding-properties)
+	- [Setting values](./docs/properties-and-values.md#-setting-values)
+	- [Common properties:](./docs/properties-and-values.md#-overview)
+		- [`color`](./docs/properties-and-values.md#-color)
+		- [`background`](./docs/properties-and-values.md#-background)
+		- [`font`](./docs/properties-and-values.md#-font)
+		- [`margin`](./docs/properties-and-values.md#-margin)
+		- [`padding`](./docs/properties-and-values.md#-padding)
+		- [`border`](./docs/properties-and-values.md#-border)
+		- [`display`](./docs/properties-and-values.md#-display)
+		- [`position`](./docs/properties-and-values.md#-position)
+		- [`float`](./docs/properties-and-values.md#-float)
+		- [`width`](./docs/properties-and-values.md#-width)
+		- [`height`](./docs/properties-and-values.md#-height)
+		- [`overflow`](./docs/properties-and-values.md#-overflow)
 4. **CSS Units:**
 	- Pixels (px)
 	- Percentages (%)
