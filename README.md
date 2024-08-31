@@ -67,11 +67,11 @@ This repository contains __the basic and essential__ topics and their notes to l
 	- [Grid layout](./docs/layouts.md#-grid-layout)
 	- [Positioning](./docs/layouts.md#-positioning)
 	- [Floating elements](./docs/layouts.md#-floating-elements)
-8. **Borders and Outlines:**
-	- Border width
-	- Border style
-	- Border color
-	- Outlines
+8. [Borders and Outlines:](./docs/borders-and-outlines.md)
+	- [Border width](./docs/borders-and-outlines.md#-border-width)
+	- [Border style](./docs/borders-and-outlines.md#-border-style)
+	- [Border color](./docs/borders-and-outlines.md#-border-color)
+	- [Outlines](./docs/borders-and-outlines.md#-outlines)
 9. **Responsive Design:**
 	- Media queries
 	- Flexible layouts

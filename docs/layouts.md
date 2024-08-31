@@ -125,6 +125,6 @@ img {
 ---
 [&#8682; To Top](#-layouts)
 
-[&#10094; Previous Topic](../docs/color-and-background.md) &emsp; [Next Topic &#10095;](../docs/layouts.md)
+[&#10094; Previous Topic](../docs/color-and-background.md) &emsp; [Next Topic &#10095;](../docs/borders-and-outlines.md)
 
 [&#8962; Goto Home Page](../README.md)
