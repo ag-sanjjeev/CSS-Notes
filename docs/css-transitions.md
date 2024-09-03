@@ -9,6 +9,7 @@ This properties is important to show the immediate changes on the elements at ea
 3. [Transition timing functions](#-transition-timing-functions)
 4. [Transition delay](#-transition-delay)
 5. [Shorthand Transition Property](#-shorthand-transition-property)
+6. [Resize Property](#-resize-property)
 
 ### &#10022; Transition Properties:
 It specify which properties should transition when their values get change.
@@ -65,6 +66,15 @@ It specifies all properties for the transition of the element.
 
 ```css
 transition: background-color 0.5s ease-in-out 1s;
+```
+
+### &#10022; Resize Property:
+It allows the user to resize the element. It can be resized `vertical`, `horizontal` or `both`.
+
+*Syntax: `resize: axis-value;`*
+
+```css
+resize: both;
 ```
 
 ---
