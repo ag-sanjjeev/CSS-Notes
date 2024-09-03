@@ -161,6 +161,6 @@ a[href*="products"] {
 ---
 [&#8682; To Top](#-css-selectors)
 
-[&#10094; Previous Topic](../introduction.md) &emsp; [Next Topic &#10095;](./properties-and-values.md)
+[&#10094; Previous Topic](../introduction.md) &emsp; [Next Topic &#10095;](./pseudo-selectors.md)
 
 [&#8962; Goto Home Page](../README.md)
