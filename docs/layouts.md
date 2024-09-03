@@ -45,6 +45,8 @@ This is a flexible layout system for arranging items in a container.
 }
 ```
 
+To know more about [`flexbox`](./css-flexbox.md)
+
 ### &#10022; Grid Layout:
 This is a grid-based layout system for creating complex layouts.
 
@@ -56,6 +58,8 @@ This is a grid-based layout system for creating complex layouts.
   /* required grid properties */
 }
 ```
+
+To know more about [`grid`](./css-grid.md)
 
 ### &#10022; Positioning:
 It determines the element that where should be placed on the parent or the page. There are 5 common positioning type in CSS. That are Static, Relative, Absolute, Fixed, Sticky.
