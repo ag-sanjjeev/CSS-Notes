@@ -22,6 +22,11 @@ This repository contains __the basic and essential__ topics and their notes to l
 		- [Adjacent sibling selectors](./docs/selectors.md#-adjacent-sibling-selectors)
 		- [General sibling selectors](./docs/selectors.md#-general-sibling-selectors)
 		- [Attribute selectors](./docs/selectors.md#-attribute-selectors)
+	- [Pseudo Selectors:](./docs/pseudo-selectors.md)
+		- [Structural Pseudo Selectors](./docs/pseudo-selectors.md#-structural-pseudo-selectors)
+		- [State Pseudo Selectors](./docs/pseudo-selectors.md#-state-pseudo-selectors)
+		- [Content Pseudo Selectors](./docs/pseudo-selectors.md#-content-pseudo-selectors)
+
 3. [Properties and Values:](./docs/properties-and-values.md)
 	- [Understanding properties](./docs/properties-and-values.md#-understanding-properties)
 	- [Setting values](./docs/properties-and-values.md#-setting-values)
