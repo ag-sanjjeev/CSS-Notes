@@ -23,6 +23,8 @@ This type of pseudo-selectors targets element based on the HTML document positio
   - :only-of-type: Targets an element that is the only element of its type within its parent.
   - :empty: Targets an element that has no children.
   - :target: Targets an element that is the current target of a hyperlink.
+  - :not(): Targets elements that do not match a specified selector or set of selectors.
+  - :has(): Targets elements that have a specific child or descendant element or property or value or anything related to the element.
 
 ```css
 /* Root pseudo-selectors used for defining CSS variables */
@@ -33,6 +35,26 @@ This type of pseudo-selectors targets element based on the HTML document positio
 /* This will set style to first child of the div elements */
 div:first-child {
   color: blue;
+}
+
+/* not pseudo-selectors */
+button:not(:first-child) {
+  ...
+}
+
+/* has pseudo-selectors */
+button:has(.icon-button) {
+  ...
+}
+
+button:has(svg) {
+  ...
+}
+
+/* light and dark theme selection based css selector */
+body:has(#theme option[value="dark"]:checked) {
+  background: black;
+  color: white;
 }
 ```
 
@@ -48,6 +70,7 @@ It targets elements based on their current state of behavior.
   - :checked: Targets a checked input element (e.g., checkbox, radio button).
   - :disabled: Targets a disabled element.
   - :enabled: Targets an enabled element.
+  - :focus-within: Targets an element and its descendants when any of them is focused.
 
 ```css
 /* It bolds the text of anchor tag when it is hovered */
