@@ -11,6 +11,7 @@ These properties can apply the colors to the elements.
 5. [Background positioning](#-background-positioning)
 6. [Background repetition](#-background-repetition)
 7. [Background attachment](#-background-attachment)
+8. [Gradient Text](#-gradient-text)
 
 ### &#10022; Color models:
 - RGB (Red Green Blue) Color Model:
@@ -113,6 +114,17 @@ It determines whether a background image scrolls with the content or remains fix
 ```css
 body {
   background-attachment: fixed;
+}
+```
+
+### &#10022; Gradient Text:
+The linear gradient property does not work with text. But it can be done with `background-clip`property.
+
+```css
+h1 {
+  background: linear-gradient(to right, red, blue);
+  background-clip: text;
+  color: transparent;
 }
 ```
 

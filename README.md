@@ -64,6 +64,7 @@ This repository contains __the basic and essential__ topics and their notes to l
 	- [Background positioning](./docs/color-and-background.md#-background-positioning)
 	- [Background repetition](./docs/color-and-background.md#-background-repetition)
 	- [Background attachment](./docs/color-and-background.md#-background-attachment)
+	- [Gradient Text](./docs/color-and-background.md#-gradient-text)
 7. [Layouts:](./docs/layouts.md)
 	- [Block-level elements](./docs/layouts.md#-block-level-elements)
 	- [Inline elements](./docs/layouts.md#-inline-elements)
