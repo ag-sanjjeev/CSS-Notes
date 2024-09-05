@@ -41,7 +41,7 @@ div {
 ```
 
 ### &#10022; Responsive images:
-This will automatically adjust the size of the images to fit the screen by applying [relative units](./css-units.md) or using [source tags](https://github.com/ag-sanjjeev/HTML-Notes/tags/source-tag.md).
+This will automatically adjust the size of the images to fit the screen by applying [relative units](./css-units.md) or using [source tags](https://github.com/ag-sanjjeev/HTML-Notes/blob/master/tags/source-tag.md).
 
 ```xml
 <img src="image.jpg" alt="Image" width="100%">

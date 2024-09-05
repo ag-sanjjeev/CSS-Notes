@@ -13,12 +13,12 @@ This usage guide will give explanation about creating and using CSS Styles in th
 ### &#10022; Using CSS File
 
 - Once CSS file is created then it can be link to the existing HTML document.
-- Refer [Link Tag](https://github.com/ag-sanjjeev/HTML-Notes/tags/link-tag.md) and Use it for linking the CSS files to the HTML document.
+- Refer [Link Tag](https://github.com/ag-sanjjeev/HTML-Notes/blob/master/tags/link-tag.md) and Use it for linking the CSS files to the HTML document.
 - Save the HTML document to apply changes.
 - Then **`select the html file`** and run by hitting the **`ENTER`** button 
 - Or by **`open`** or by **`open with`** option menu associated with that selected file.
 - After that above actions will be reflected on the HTML document.
-- Instead of CSS files, You can directly write styles for the HTML document via [Style Tag](https://github.com/ag-sanjjeev/HTML-Notes/tags/style-tag.md) or via `style=""` attribute of the each element.
+- Instead of CSS files, You can directly write styles for the HTML document via [Style Tag](https://github.com/ag-sanjjeev/HTML-Notes/blob/master/tags/style-tag.md) or via `style=""` attribute of the each element.
 - The best practice is, Write separate file for CSS Styles to make HTML document clean and neat in the code. And also it gives the code re-usability. 
 
 ---
