@@ -121,6 +121,6 @@ Example:
 ---
 [&#8682; To Top](#-css-filters)
 
-[&#10094; Previous Topic](../docs/css-transitions.md)
+[&#10094; Previous Topic](../docs/css-transitions.md) &emsp; [Next Topic &#10095;](../docs/css-clip-path.md)
 
 [&#8962; Goto Home Page](../README.md)
