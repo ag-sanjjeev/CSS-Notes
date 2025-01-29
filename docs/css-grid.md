@@ -140,6 +140,14 @@ The repeat function is used to repeat same values for number of times.
 
 *Syntax: `grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));`*
 
+*Take available space for column width (That looks uneven width for columns).*
+
+*Syntax: `grid-template-columns: repeat(2, minmax(auto,1fr));`*
+
+*Set Even Width for all columns.*
+
+*Syntax: `grid-template-columns: repeat(2, minmax(0,1fr));`*
+
 ```css
 .parent-element {
   display: grid;
